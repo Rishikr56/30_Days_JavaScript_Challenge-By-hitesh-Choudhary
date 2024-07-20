@@ -52,4 +52,4 @@ console.log("after changing value of f is:",f);
 
 const h = 45;
 
-h = 56;
+h = 56; // Here error is [TypeError: Assignment to constant variable.]
